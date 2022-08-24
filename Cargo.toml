@@ -1,0 +1,20 @@
+[package]
+edition = "2021"
+name = "alacritty_open_terminal_gnome_files_extension"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+crate-type = ["dylib"]
+name = "open_in_termial"
+
+[dependencies]
+glib-sys = "0.15.10"
+gobject-sys = "0.15.10"
+nautilus-extension = "0.8.0"
+dconf_rs = "0.3.0"
+gtk = "0.15.5"
+gtk-sys = "0.15.3"
+nix = "0.25.0"
+
