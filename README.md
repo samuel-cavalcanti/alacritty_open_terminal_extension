@@ -54,3 +54,4 @@ sudo cp target/release/libopen_in_termial.so /usr/lib/nautilus/extensions-3.0/
 
 ![](assets/output.gif)
 
+link para o vídeo: [Open in Terminal Gnome Files Rust extension (prototype)](https://youtu.be/AmCSgCvZnP0)
