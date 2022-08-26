@@ -17,4 +17,5 @@ dconf_rs = "0.3.0"
 gtk = "0.15.5"
 gtk-sys = "0.15.3"
 nix = "0.25.0"
+urlencoding = "2.1.0"
 
